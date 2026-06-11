@@ -1,15 +1,65 @@
-The Seventh Proof Story Outline
+# The Seventh Proof — Story Outline
 
-Backstory  
-\-\>"The Seventh Proof" is a non-linear adaptation of Mikhail Bulgakov's masterpiece, The Master and Margarita. This game offers a unique, narrative-driven experience built upon environmental storytelling and an immersive atmosphere. The story is set in modern-day London and follows a series of surreal events triggered by the arrival of Professor Woland and his mysterious entourage amidst the turmoil of a major British election. The entire narrative spans the seven days leading up to Election Day. Players assume the roles of various characters, navigating a chain of bizarre and harrowing events, solving puzzles to progress, and deciphering the deep secrets behind Woland's appearance.
+## Backstory
 
-\-\>Unlike the main theme of the actual novel, which was somehow pro-faith against the setting of atheism and bourgeoises of then Soviet Union, this story is going to be against both the extreme political left/right wing ideas currently expanding around the world, such as globalism, stigmatization of nationalism, the rise of neo fascism, religious extremists, etc.
+### Concept
 
-\-\>A week before the contentious UK General Election, the city of London is basically a powder keg of political and ideological tension. Our main character and protagonist is Kenneth Fletcher, a 37-year-old, disciplined, and brilliant investigator with a sharp mind for political and philosophical topics. However, he is deeply depressed following the tragic loss of his wife and daughter and has grown utterly weary and disillusioned with the dogmatism and extreme idealism of both political factions. One year ago, his wife and daughter perished in a fire while attending a performance at a branch of the famous Royal Alliance Theatre Association.
+*The Seventh Proof* is a non-linear adaptation of Mikhail Bulgakov's masterpiece, *The Master and Margarita*. The game offers a unique, narrative-driven experience built upon environmental storytelling and an immersive atmosphere. Set in modern-day London, it follows a series of surreal events triggered by the arrival of Professor Woland and his mysterious entourage amidst the turmoil of a major British election. The entire narrative spans the seven days leading up to Election Day. Players assume the roles of various characters, navigating a chain of bizarre and harrowing events, solving puzzles to progress, and deciphering the deep secrets behind Woland's appearance.
 
-\-\>Kenneth is an official detective in the force, but he also has some unofficial connections around the country, who sometimes give him leads or secret cases to investigate and earn some extra money for it. It all began with one of these leads... On a Sunday evening, he gets a call from one of his connections who tells him about the disappearance of a man named Arthur Pennington. The name strikes a strangely familiar chord with Kenneth. The informant explains that an anonymous caller claimed Arthur hadn't been seen at home or his office for days, ominously adding that "he will be disposed of soon...". The informant also says that Arthur Pennington is the director of the "Royal Alliance" theatre associations, and thus one of London’s wealthiest men, which could make this case very lucrative. Upon hearing the theater's name and recalling the firing incident, Kenneth immediately accepts the case and decides to start his secret investigation at Arthur Pennington's place: The penthouse of the famous Silver Tower at No. 50 Godolphin Street.
+### Theme
 
-Act 1  
+Unlike the novel — which defended faith against the state atheism and corrupt bourgeoisie of the Soviet Union — this story turns its satire against **both** political extremes currently expanding around the world: dogmatic globalism and the stigmatization of national identity on one side; neo-fascism, ultra-nationalism, and religious extremism on the other. Woland does not arrive in London to corrupt anyone. He arrives, as he did in Moscow, to take inventory — and finds a city that has already corrupted itself.
+
+### The Election
+
+London, one week before a contentious UK General Election. The city is a powder keg of political and ideological tension. Two factions dominate every screen, speaker, and street corner:
+
+- **The Concord Party**, led by **Diane Sterling** — polished, technocratic, preaching unity and open markets while quietly dismantling everything local; the smiling face of globalism that treats dissent as ignorance.
+- **The New Albion Movement**, led by **Edward Thorne** — a firebrand promising national rebirth, flirting openly with religious hardliners and not-so-openly with street militias; nostalgia weaponized into resentment.
+
+Unknown to the public — and to each candidate's true believers — **both campaigns secretly drink from the same financial well.** Their dark money flows through the same laundering pipeline: the One Soul Charity Foundation and the Royal Alliance theatre empire. The two parties screaming at each other across every divide are, beneath the floorboards, business partners. This is the central corruption the story exposes.
+
+### Professor Woland and His Entourage
+
+Days before the election, posters appear across the city: **"PROFESSOR WOLAND — THE SEVENTH PROOF: AN EVENING OF IMPOSSIBLE TRUTHS."** A world-famous foreign mentalist and illusionist — no surname given, no past traceable — has been contracted for a one-night-only gala performance at the Royal Alliance's flagship theatre on **election eve**. The contract bears the signature of Arthur Pennington, who has no memory of ever signing it.
+
+Woland's retinue, each with a mundane cover and an inhuman truth:
+
+- **Koroviev** — Woland's lanky, grinning "tour manager and interpreter," in a cheap checked suit and cracked pince-nez. He does the talking, the paperwork, and the lying; his jokes have a way of coming true.
+- **Azazello** — "head of security." Short, broad, red-haired, one protruding fang and a wall-eye. The enforcer; where physical violence is required, Azazello attends to it.
+- **Hella** — the Professor's "personal assistant," redheaded and unsettlingly beautiful, handling hospitality and visitors. Visitors she handles alone are rarely seen again.
+- **Behemoth** — the star attraction of the show: an enormous black cat who walks on his hind legs, drinks whiskey, smokes cigars, and is advertised as "a marvel of training." He is no one's pet, and his sense of humor is lethal.
+- **Abaddon** — on no payroll and no poster. A pale, eyeless figure who is never introduced and never speaks; he simply *appears* — glimpsed in a reflection, at the end of a corridor, across a street — only when a death is imminent. *(Design note: Abaddon functions as a recurring visual omen for the player; once the pattern is learned, his appearance becomes the game's most dreadful clue.)*
+
+### Kenneth Fletcher
+
+Our protagonist: **Kenneth Fletcher, 37**, a disciplined, brilliant investigator with a sharp mind for political and philosophical questions. He is an official detective in the force, but he also maintains unofficial connections around the country who feed him leads and quiet, off-the-books cases for extra money.
+
+One year ago, his wife and daughter perished in a fire while attending a performance at a branch theatre of the famous Royal Alliance Theatre Association. The official inquiry blamed faulty wiring, closed within weeks, and sealed its findings — fast, clean, and final. Too fast. Kenneth, a man who interrogates evidence for a living, was never permitted to interrogate the evidence of his own family's death. The grief broke him; the unanswered questions keep him standing. He has grown utterly weary and disillusioned with the dogmatism of both political factions — to him, Sterling's and Thorne's voices are the same noise played in different keys.
+
+*(Canon, hidden from the player at the start: the fire was arson — set to destroy evidence connected to the laundering operation. Kenneth's "lucrative missing-person case" is, though he doesn't know it yet, his family's case. The outline must distribute clues to this fairly across the acts before any reveal.)*
+
+### The Inciting Case
+
+It all began with one of those unofficial leads. On a **Sunday evening**, Kenneth gets a call from one of his connections: a man named **Arthur Pennington** has disappeared. The name strikes a strangely familiar chord. The informant explains that an anonymous caller reported Arthur missing from home and office for days — adding, ominously, that *"he will be disposed of soon..."* Arthur Pennington is the director of the Royal Alliance theatre association, one of London's wealthiest men; the case could be very lucrative. But it isn't the money that decides it. Upon hearing the theatre's name — *that* theatre — Kenneth accepts on the spot, and begins his secret investigation at Arthur's residence: the penthouse of the famous Silver Tower, No. 50 Godolphin Street.
+
+### Timeline at a Glance
+
+The seven days before the election (UK elections fall on a Thursday). The story is told non-linearly; this is the true chronological order:
+
+| Day | Events |
+|---|---|
+| **Thu night (E-7)** | Arthur signs Woland's contract that morning — remembers nothing. That night: Behemoth's phone call, the warping penthouse, Arthur's disappearance. Same rainy night: Margaret meets the stranger in Hyde Park and accepts the pact. |
+| **Fri–Sat (E-6/5)** | Arthur missing; Zoey and Sarah search quietly, afraid of scandal. Woland's show is announced across London. |
+| **Sun (E-4)** | Evening: Kenneth gets the informant's call; breaches the Silver Tower penthouse that night. Same night: Zoey and Sarah at the deserted theatre — Sarah's murder. |
+| **Mon (E-3)** | Midnight: Kenneth infiltrates the Royal Alliance, finds the laundering evidence and Sarah's body. |
+| **Tue–Wed (E-2/1)** | *(To be outlined — Acts 3+.)* Margaret's challenges; the investigation widens. **Wednesday, election eve: Woland's gala — "The Seventh Proof."** |
+| **Thu (E-Day)** | Election Day. *(Finale — to be outlined.)* |
+
+---
+
+## Act 1
+
 \-\>We begin the game as Kenneth, attempting to breach the Silver Tower. Through solving complex puzzles and gathering clues, he eventually locates the penthouse keycard and gains entry. Inside, everything appears immaculate; there is not a single trace of Arthur. However, Kenneth discovers other disturbing anomalies: large paw prints resembling those of a tiger or a massive cat, clothes that differ wildly in style and size from the rest of the wardrobe, and a peculiar business card imprinted with a large golden letter 'W'. After piecing together all clues and information, Kenneth discovers that Arthur, alongside another powerful and wealthy Londoner named Ahmad Tariq, is also the co-founder and director of a massive charity organization called One Soul Charity Foundation.
 
 \-\>After this part, we go back to 3 days prior to Kenneth coming to the apartment, and we play the role of Arthur Pennington on the night of his disappearance. Arthur wakes up in the middle of the night to the sound of a ringing cellphone from the living room. He is heavily hungover from drinking last night and he has a very bad headache. Answering the phone, he hears Zoey, his chief secretary, telling him she needs the phone number of one Professor Woland so that she can call him about an important meeting tomorrow. She insists the number is in the contract they drafted that very morning. Arthur has no memory of a person named Woland, nor of drafting any contract, but his headache is so splitting that he agrees to find it.   
@@ -21,14 +71,15 @@ As he searches for his briefcase, the apartment begins to warp slowly: doors loc
 
 \-\>The conversation turns personal when the stranger asks what she is truly looking for in this city. Margaret tells him that she is searching for a lover she has lost long ago, and now she has this unshakeable feeling that he is somewhere in London. The stranger, with an immense confidence in his looks, offers her a pact: he can help her find him, but only if she agrees to perform a series of specific challenges for him. Overwhelmed by the man’s magnetic presence and the inexplicable sense of power radiating from him, Margaret believes he is capable of the impossible. Desperate to be reunited with her lover, she accepts his terms.
 
-Act 2  
+## Act 2
+
 \-\>Returning to the present, Kenneth decides to investigate Arthur’s office in the Royal Alliance building next. Unable to do so officially or in broad daylight, he must find a way to infiltrate the theater at midnight and locate the management floor. Upon reaching the floor, Kenneth is struck by an unnatural silence. It isn't merely quiet; the place feels dead. There is no hum of servers, no distant traffic noise, no night watchman. It is then that he spots the first bloodstain on the expensive carpet. Following the trail with his flashlight, he discovers more disturbing signs: deep, long scratches on the wallpaper and, in some places, massive parallel gouges, as if made by the fangs of a giant cat or tiger.
 
-\-\>Inside Arthur’s luxurious office, and after hacking into his computer, Kenneth’s investigation peels back the first layer of real-world corruption. He discovers a hidden folder and some encrypted files on Arthur’s personal computer. The evidence is undeniable: Arthur and Ahmed are partners in a colossal money-laundering scheme. The "One Soul" foundation and the "Royal Alliance" theaters receive millions of pounds in religious and public donations, which are then funneled into fake art commissions and cryptocurrency trades, effectively laundering funds for both major political factions in the election.
+\-\>Inside Arthur’s luxurious office, and after hacking into his computer, Kenneth’s investigation peels back the first layer of real-world corruption. He discovers a hidden folder and some encrypted files on Arthur’s personal computer. The evidence is undeniable: Arthur and Ahmad are partners in a colossal money-laundering scheme. The "One Soul" foundation and the "Royal Alliance" theaters receive millions of pounds in religious and public donations, which are then funneled into fake art commissions and cryptocurrency trades, effectively laundering funds for both major political factions in the election.
 
-\-\>Furthermore, the computer exposes a personal fiasco: a locked folder of confidential emails reveals that Arthur was having affairs with his assistant, Zoey Fernandez(a married woman), and the theater’s financial manager, Sarah Evans. Finishing his digital search, Kenneth returns to the hallway and spots a trail of fresh blood leading toward the staff breakroom. He pushes the door open. His flashlight beam cuts through the darkness to reveal a horrific scene. A headless corpse lies in the center of the room. On the counter, displayed like a grotesque trophy, sits the severed head of Sarah Evans, her face frozen in a silent scream of terror...
+\-\>Furthermore, the computer exposes a personal fiasco: a locked folder of confidential emails reveals that Arthur was having affairs with his assistant, Zoey Fernandez (a married woman), and the theater’s financial manager, Sarah Evans. Finishing his digital search, Kenneth returns to the hallway and spots a trail of fresh blood leading toward the staff breakroom. He pushes the door open. His flashlight beam cuts through the darkness to reveal a horrific scene. A headless corpse lies in the center of the room. On the counter, displayed like a grotesque trophy, sits the severed head of Sarah Evans, her face frozen in a silent scream of terror...
 
-\-\>We now go back to the previous night, playing the role of Zoey Fernandez. inside the deserted Royal Alliance Theatre. She and the financial manager, Sarah, are desperately trying to locate Arthur, who has been missing for days. Crucially, we learn here that the phone call Arthur received earlier, which we thought was from Zoey, was a supernatural fabrication by Behemoth; the real Zoey never spoke to him that night and now she is consumed by anxiety. She fears not just for Arthur’s safety, but that his disappearance will expose their affair.   
+\-\>We now go back to the previous night, playing the role of Zoey Fernandez, inside the deserted Royal Alliance Theatre. She and the financial manager, Sarah, are desperately trying to locate Arthur, who has been missing for days. Crucially, we learn here that the phone call Arthur received earlier, which we thought was from Zoey, was a supernatural fabrication by Behemoth; the real Zoey never spoke to him that night and now she is consumed by anxiety. She fears not just for Arthur’s safety, but that his disappearance will expose their affair.   
 Unknown to Zoey, Sarah is also secretly involved with Arthur, and the two women are collaborating to find their shared lover. After a tense discussion, Sarah volunteers to check the local pubs and bars Arthur frequently visits, leaving Zoey alone in the building. Seizing the opportunity, Zoey decides to act on her growing suspicions about Sarah. Zoey must solve complex security puzzles to bypass the locks on Sarah’s office so that she can enter. Inside, she uncovers clues suggesting Sarah's own secret involvement with Arthur, deepening Zoey’s paranoia, confusion and anger.
 
 \-\>Upon returning to her own office, Zoey finds that Sarah has returned much sooner than expected. Sarah is sitting motionless behind a desk, her face obscured by heavy shadows, behaving with an unnerving, rigid and weird stillness. An interactive dialogue sequence initiates here. We can choose how Zoey questions Sarah about her search. Initially, Sarah claims she found Arthur drunk at a pub and sent him home in a taxi. However, as we press her with more specific questions, her story begins to fracture; the contradictions grow wilder and the lies more absurd with every response. As the interrogation continues, Sarah leans forward, bringing her face out of the shadows.   
