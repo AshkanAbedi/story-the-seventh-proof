@@ -1,4 +1,4 @@
-# The Seventh Proof — Story Outline
+# The Seventh Proof_Story Outline
 
 ## Backstory
 
@@ -8,44 +8,65 @@
 
 ### Theme
 
-Unlike the novel — which defended faith against the state atheism and corrupt bourgeoisie of the Soviet Union — this story turns its satire against **both** political extremes currently expanding around the world: dogmatic globalism and the stigmatization of national identity on one side; neo-fascism, ultra-nationalism, and religious extremism on the other. Woland does not arrive in London to corrupt anyone. He arrives, as he did in Moscow, to take inventory — and finds a city that has already corrupted itself.
+Unlike the novel, which defended the concept of faith against the state atheism and corrupt bourgeoisie of the Soviet Union, this story turns its satire against **both** political extremes currently expanding around the world: dogmatic globalism and the stigmatization of national identity on one side; neo-fascism, ultra-nationalism, and religious extremism on the other. Woland does not arrive in London to corrupt anyone. He arrives, as he did in Moscow, to take inventory; And finds a city that has already corrupted itself.
 
 ### The Election
 
 London, one week before a contentious UK General Election. The city is a powder keg of political and ideological tension. Two factions dominate every screen, speaker, and street corner:
 
-- **The Concord Party**, led by **Diane Sterling** — polished, technocratic, preaching unity and open markets while quietly dismantling everything local; the smiling face of globalism that treats dissent as ignorance.
-- **The New Albion Movement**, led by **Edward Thorne** — a firebrand promising national rebirth, flirting openly with religious hardliners and not-so-openly with street militias; nostalgia weaponized into resentment.
+- **The Concord Party**, led by **Diane Sterling**: Polished, technocratic, preaching unity and open markets while quietly dismantling everything local; the smiling face of globalism that treats dissent as ignorance.
+- **The New Albion Movement** (NAM)**, led by Edward Thorne**: A firebrand promising national rebirth, flirting openly with religious hardliners and not-so-openly with street militias; nostalgia weaponized into resentment.
 
-Unknown to the public — and to each candidate's true believers — **both campaigns secretly drink from the same financial well.** Their dark money flows through the same laundering pipeline: the One Soul Charity Foundation and the Royal Alliance theatre empire. The two parties screaming at each other across every divide are, beneath the floorboards, business partners. This is the central corruption the story exposes.
+Unknown to the public, and to each candidate's true believers, **both campaigns secretly drink from the same financial well.** Their dark money flows through the same laundering pipelines: The One Soul Charity Foundation and the Royal Alliance Theatre empire being two of those. The two parties screaming at each other across every divide are, beneath the floorboards, business partners. This is the central corruption the story exposes.
 
 ### Professor Woland and His Entourage
 
-Days before the election, posters appear across the city: **"PROFESSOR WOLAND — THE SEVENTH PROOF: AN EVENING OF IMPOSSIBLE TRUTHS."** A world-famous foreign mentalist and illusionist — no surname given, no past traceable — has been contracted for a one-night-only gala performance at the Royal Alliance's flagship theatre on **election eve**. The contract bears the signature of Arthur Pennington, who has no memory of ever signing it.
+Days before the election, posters appear across the city: **"PROFESSOR WOLAND & THE SEVENTH PROOF: AN EVENING OF THE IMPOSSIBLE"**. A world-famous foreign mentalist and illusionist, no surname given, no past traceable, has been contracted for a one-night-only gala performance at the Royal Alliance's flagship theatre on **election eve**. The contract bears the signature of Arthur Pennington, who has no memory of ever signing it.
 
 Woland's retinue, each with a mundane cover and an inhuman truth:
 
-- **Koroviev** — Woland's lanky, grinning "tour manager and interpreter," in a cheap checked suit and cracked pince-nez. He does the talking, the paperwork, and the lying; his jokes have a way of coming true.
-- **Azazello** — "head of security." Short, broad, red-haired, one protruding fang and a wall-eye. The enforcer; where physical violence is required, Azazello attends to it.
-- **Hella** — the Professor's "personal assistant," redheaded and unsettlingly beautiful, handling hospitality and visitors. Visitors she handles alone are rarely seen again.
-- **Behemoth** — the star attraction of the show: an enormous black cat who walks on his hind legs, drinks whiskey, smokes cigars, and is advertised as "a marvel of training." He is no one's pet, and his sense of humor is lethal.
-- **Abaddon** — on no payroll and no poster. A pale, eyeless figure who is never introduced and never speaks; he simply *appears* — glimpsed in a reflection, at the end of a corridor, across a street — only when a death is imminent. *(Design note: Abaddon functions as a recurring visual omen for the player; once the pattern is learned, his appearance becomes the game's most dreadful clue.)*
+- **Koroviev**: Woland's lanky, grinning "tour manager and interpreter," in a cheap checked suit and cracked pince-nez. He does the talking, the paperwork, and the lying; his jokes have a way of coming true.
+- **Azazello**: "Head of security." Short, broad, red-haired, one protruding fang and a wall-eye. The enforcer; where physical violence is required, Azazello attends to it.
+- **Hella**: The Professor's "personal assistant," redheaded and unsettlingly beautiful, handling hospitality and visitors. Visitors she handles alone are rarely seen again.
+- **Behemoth**: The star attraction of the show: an enormous black cat who walks on his hind legs, drinks whiskey, smokes cigars, and is advertised as "a marvel of training." He is no one's pet, and his sense of humor is lethal.
+- **Abaddon**: On no payroll and no poster. A pale, eyeless figure who is never introduced and never speaks; he simply *appears*; Glimpsed in a reflection, at the end of a corridor, across a street, only when a death is imminent. *(Design note: Abaddon functions as a recurring visual omen for the player; once the pattern is learned, his appearance becomes the game's most dreadful clue.)*
+
+### One Year Ago: The Theatre Attack
+
+**What the public knows:** one year before the events of the game, masked gunmen stormed a branch playhouse of the Royal Alliance Theatre Association in London during an evening performance. They opened fire on the audience and withdrew into the night with hostages. Several people were killed; several more were abducted or remain unaccounted for. A fringe religious-extremist cell claimed responsibility in a rambling communiqué; Yet no ransom demand ever followed, no hostage was ever recovered, and the counter-terror investigation named no masterminds before quietly going dormant. London grieved, raged, and, as cities do, moved on. A year later, both campaigns still invoke the attack from their podiums: Thorne brandishes it as proof of national decay and open borders; Sterling as proof of where extremism leads. Neither has any idea what it actually was.
+
+**What actually happened (hidden canon):** the attack was a commissioned abduction wearing the mask of terrorism. Arthur Pennington and Ahmad Tariq ordered it, and outsourced it to a religious extremist cell — one of several quietly nourished through the One Soul money pipeline. The target was a single man in the audience that night: the journalist **Michael Astor**. The plan, however, slipped out of hand; The cell's gunmen opened fire where they were meant only to take one man, and civilians died. Among them: Kenneth Fletcher's wife and daughter. The atrocity that now fuels both candidates' speeches is, in truth, the conspiracy's bloodiest piece of bookkeeping — and the abduction succeeded.
+
+### Michael Astor and Margaret Anderson
+
+**Michael Astor**: Investigative journalist and writer; byline *M. Astor*. Two years before the story begins, he started pulling on a single loose thread: the impossible finances of the Royal Alliance Theatre Association and its partner, the One Soul Charity Foundation. Curious, stubborn, and working alone (he trusted no editor with it), he spent a year mapping the pipeline: the donations, the fake art commissions, the crypto wash, the political accounts at both ends. He compiled it all into one encrypted dossier and hid it. Then, one evening at the theatre, the gunmen came. Officially, Michael has been **"unaccounted for"** since the attack — not among the identified dead, not a confirmed hostage. The police filed him into the void between categories and stopped looking. Only Margaret never did.
+
+*(Hidden canon: Michael is alive — committed under a false name and a false diagnosis in a private psychiatric clinic funded by the One Soul Charity Foundation. The charity is literally his cage; his records are sealed behind "donor privacy." He is kept sedated, discredited, and alive for exactly one reason: only he knows where the dossier is hidden. They cannot kill him until they have it; he will not give it up, because it is the only thing keeping him alive. A year of this stalemate has nearly unmade him, but he spends every lucid hour plotting his escape, by any means he can find. His hidden manuscript is this story's "manuscripts don't burn.")*
+
+**Margaret Anderson**: Michael's partner and the love of his life. She has spent a year on cold trails: vigils, missing-person bureaucracy, dwindling police sympathy, friends who gently suggest a grief counselor. What she has instead of evidence is an unshakeable, irrational certainty that Michael is alive and that he is somewhere in London. She is right — and this certainty is precisely the desperation that the stranger in Hyde Park knows how to price.
 
 ### Kenneth Fletcher
 
 Our protagonist: **Kenneth Fletcher, 37**, a disciplined, brilliant investigator with a sharp mind for political and philosophical questions. He is an official detective in the force, but he also maintains unofficial connections around the country who feed him leads and quiet, off-the-books cases for extra money.
 
-One year ago, his wife and daughter perished in a fire while attending a performance at a branch theatre of the famous Royal Alliance Theatre Association. The official inquiry blamed faulty wiring, closed within weeks, and sealed its findings — fast, clean, and final. Too fast. Kenneth, a man who interrogates evidence for a living, was never permitted to interrogate the evidence of his own family's death. The grief broke him; the unanswered questions keep him standing. He has grown utterly weary and disillusioned with the dogmatism of both political factions — to him, Sterling's and Thorne's voices are the same noise played in different keys.
+His wife and daughter were in the audience at the branch playhouse that night, one year ago. They did not come home. And because the case was terrorism, it never belonged to men like Kenneth: it vanished upward into counter-terror commands, classified briefings, and sealed files. A man who interrogates evidence for a living was never permitted to interrogate the evidence of his own family's death. The grief broke him; the unanswered questions keep him standing. He has grown utterly weary and disillusioned with the dogmatism of both political factions. To him, Sterling's and Thorne's voices are the same noise played in different keys — and he cannot stand that his family's murder has become a talking point in both of their mouths.
 
-*(Canon, hidden from the player at the start: the fire was arson — set to destroy evidence connected to the laundering operation. Kenneth's "lucrative missing-person case" is, though he doesn't know it yet, his family's case. The outline must distribute clues to this fairly across the acts before any reveal.)*
+*(Canon note: Kenneth does not know Michael Astor exists, and does not suspect the attack was anything but what the news said. His "lucrative missing-person case" is, though he doesn't know it yet, his family's case — the man who vanished from the penthouse is the man who ordered the attack. The outline must distribute clues to this fairly across the acts before any reveal.)*
 
 ### The Inciting Case
 
-It all began with one of those unofficial leads. On a **Sunday evening**, Kenneth gets a call from one of his connections: a man named **Arthur Pennington** has disappeared. The name strikes a strangely familiar chord. The informant explains that an anonymous caller reported Arthur missing from home and office for days — adding, ominously, that *"he will be disposed of soon..."* Arthur Pennington is the director of the Royal Alliance theatre association, one of London's wealthiest men; the case could be very lucrative. But it isn't the money that decides it. Upon hearing the theatre's name — *that* theatre — Kenneth accepts on the spot, and begins his secret investigation at Arthur's residence: the penthouse of the famous Silver Tower, No. 50 Godolphin Street.
+It all began with one of those unofficial leads. On a **Sunday evening**, Kenneth gets a call from one of his connections: a man named **Arthur Pennington** has disappeared. The name strikes a strangely familiar chord. The informant explains that an anonymous caller reported Arthur missing from home and office for days adding, ominously, that *"he will be disposed of soon..."* Arthur Pennington is the director of the Royal Alliance theatre association, one of London's wealthiest men; the case could be very lucrative. But it isn't the money that decides it. Upon hearing the theatre's name, *that* theatre, Kenneth accepts on the spot, and begins his secret investigation at Arthur's residence: the penthouse of the famous Silver Tower, No. 50 Godolphin Street.
 
 ### Timeline at a Glance
 
-The seven days before the election (UK elections fall on a Thursday). The story is told non-linearly; this is the true chronological order:
+**Before the story:**
+
+| When | Events |
+|---|---|
+| **2 years ago** | Michael Astor begins his solo investigation into the Royal Alliance / One Soul pipeline. |
+| **1 year ago** | The theatre attack: Michael abducted (officially "unaccounted for"); Kenneth's wife and daughter among the dead; Michael confined under a false identity in the One Soul psychiatric clinic. Margaret begins her search. |
+
+**The seven days** before the election (UK elections fall on a Thursday). The story is told non-linearly; this is the true chronological order:
 
 | Day | Events |
 |---|---|

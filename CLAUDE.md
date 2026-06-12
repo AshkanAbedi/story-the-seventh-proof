@@ -78,7 +78,10 @@ Produce tight, logical, clue-based mysteries; strong narrative architecture for 
 - **The Election:** two fictional factions — **The Concord Party** (Diane Sterling; technocratic globalist) vs. **The New Albion Movement** (Edward Thorne; nationalist firebrand). Secretly, *both* campaigns are funded through the same laundering pipeline (One Soul / Royal Alliance).
 - **Woland's cover:** world-famous mentalist booked for a one-night gala at the Royal Alliance flagship theatre on **election eve** — the show is titled *"The Seventh Proof: An Evening of Impossible Truths."* The contract bears Arthur's signature, which he doesn't remember giving.
 - **Entourage & covers:** Koroviev (tour manager/interpreter), Azazello (head of security), Hella (personal assistant), Behemoth (the "performing cat"), and **Abaddon** — uncovered, eyeless, appearing only as a silent omen shortly before a death (a learnable player-facing death omen mechanic).
-- **Kenneth:** detective, 37; wife & daughter died a year ago in a Royal Alliance branch fire. Inquiry blamed wiring, closed fast, file sealed — Kenneth never believed it. **Hidden canon: the fire was arson, set to destroy evidence of the laundering operation.** His case is secretly his family's case; clues must be fairly distributed before any reveal.
+- **The theatre attack (1 year ago):** masked gunmen hit a Royal Alliance branch playhouse mid-performance — deaths, abductions, an extremist cell claimed it, no ransom ever came, investigation went dormant. **Hidden canon: it was a commissioned abduction disguised as terrorism — Arthur & Ahmad ordered it (outsourced to a religious extremist cell nourished via the One Soul pipeline) to seize the journalist Michael Astor; the civilian deaths were the plan going out of hand.**
+- **Michael Astor (the Master role):** investigative journalist, byline *M. Astor* (anagram of "Master"); spent 2 years secretly mapping the Royal Alliance/One Soul laundering pipeline; compiled and hid an encrypted dossier before the attack. Officially "unaccounted for" since. **Hidden canon: alive — held under a false name/diagnosis in a private psychiatric clinic funded by One Soul; kept sedated and alive only because he alone knows where the dossier is. He is plotting escape. The dossier is the story's "manuscripts don't burn."**
+- **Margaret:** Michael's partner; a year of cold trails; unshakeable certainty he's alive in London — the desperation Woland prices in Hyde Park.
+- **Kenneth:** detective, 37; wife & daughter were killed in the theatre attack. The case went up to counter-terror and sealed files — he was never allowed near it. He doesn't know Michael Astor exists; his missing-person case is secretly his family's case (Arthur ordered the attack). Clues must be fairly distributed before any reveal.
 - **Inciting case:** Sunday-evening informant call — Arthur Pennington missing, "he will be disposed of soon..." Kenneth accepts because of the theatre connection and starts at the Silver Tower penthouse, No. 50 Godolphin Street.
 - **Chronology (story is told non-linearly):** Thu E-7: contract signed, Arthur vanishes, Margaret's pact. Sun E-4: Kenneth's call + penthouse; same night Sarah is murdered. Mon E-3: Kenneth finds the laundering files and Sarah's body. Wed E-1: Woland's gala. Thu: Election Day finale.
 
@@ -115,10 +118,11 @@ Returning to her own office, Zoey finds Sarah back much sooner than expected —
 | Element | Detail |
 |---|---|
 | Setting | Modern-day London, 7 days before a contentious UK General Election |
-| Kenneth Fletcher | 37, detective, protagonist; wife & daughter died 1 year ago in a Royal Alliance Theatre fire |
-| Arthur Pennington | Royal Alliance Theatre director; co-founder of One Soul Charity Foundation; vanished 3 days before Kenneth's investigation; affairs with Zoey and Sarah |
-| Ahmad Tariq | Wealthy co-founder of One Soul; partner in the laundering scheme |
-| Margaret Anderson | Margarita role; made a pact with the stranger (Woland) in Hyde Park to find her long-lost lover |
+| Kenneth Fletcher | 37, detective, protagonist; wife & daughter killed 1 year ago in the Royal Alliance theatre attack; case sealed above his rank |
+| Arthur Pennington | Royal Alliance Theatre director; co-founder of One Soul Charity Foundation; ordered the theatre attack with Ahmad; vanished 3 days before Kenneth's investigation; affairs with Zoey and Sarah |
+| Ahmad Tariq | Wealthy co-founder of One Soul; partner in the laundering scheme and the attack order |
+| Michael Astor | Master role; journalist (*M. Astor* = "Master"); investigated the pipeline for 2 years, hid an encrypted dossier; officially "unaccounted for"; secretly held in a One Soul-funded psychiatric clinic, kept alive for the dossier, plotting escape |
+| Margaret Anderson | Margarita role; Michael's partner; made a pact with the stranger (Woland) in Hyde Park to find him |
 | Zoey Fernandez | Arthur's chief secretary and mistress; married |
 | Sarah Evans | Theater financial manager; Arthur's other mistress; beheaded (Behemoth) |
 | Woland | "Professor Woland"; golden 'W' business card; contract with Arthur he can't remember; public cover: mentalist performing "The Seventh Proof" gala at the Royal Alliance on election eve |
@@ -126,16 +130,16 @@ Returning to her own office, Zoey finds Sarah back much sooner than expected —
 | Koroviev / Azazello / Hella | Entourage covers: tour manager-interpreter / head of security / personal assistant |
 | Abaddon | Eyeless, silent; appears only as an omen shortly before a death (player-learnable mechanic) |
 | The election | The Concord Party (Diane Sterling, globalist technocrat) vs. The New Albion Movement (Edward Thorne, nationalist firebrand); both secretly funded via the same laundering pipeline |
-| The fire (hidden canon) | Arson — destroyed evidence tied to the laundering scheme; inquiry blamed wiring, closed fast, sealed. Kenneth doesn't know yet |
-| The crime layer | One Soul + Royal Alliance launder donation money for both political factions via fake art commissions and crypto |
+| The theatre attack (hidden canon) | Commissioned by Arthur & Ahmad to abduct Michael Astor; disguised as terrorism via an extremist cell funded through One Soul; civilian deaths (incl. Kenneth's family) were the plan going out of hand |
+| The crime layer | One Soul + Royal Alliance launder donation money for both political factions via fake art commissions and crypto; the same pipeline quietly funds religious extremist cells |
 
 ## Open Design Questions (to brainstorm)
 
-1. Who is the Master-equivalent — Margaret's lost lover — and when does the player meet him?
-2. What is this story's Pilate-strand equivalent (the story-within-the-story)?
+1. When and how does the player meet Michael Astor (asylum chapters — playable? glimpsed through Margaret's strand?), and how does his escape attempt intersect the 7-day timeline?
+2. What is this story's Pilate-strand equivalent (the story-within-the-story)? Candidate: Michael's hidden dossier/manuscript.
 3. What does Woland actually want in London (beyond the gala — his true purpose)?
-4. Who set the fire, on whose order, and how does Kenneth uncover it (fair-play clue chain needed)?
-5. Acts 3+ structure: Margaret's challenges, the gala set-piece, Election Day finale.
+4. Fair-play clue chain: how does Kenneth get from "missing theatre director" to "the attack was a commissioned abduction" — and where does he learn his family died as collateral?
+5. Acts 3+ structure: Margaret's challenges, the gala set-piece, Election Day finale; where the dossier resurfaces.
 
 ## Working Conventions
 
