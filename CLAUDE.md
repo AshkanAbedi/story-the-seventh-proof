@@ -71,13 +71,19 @@ Produce tight, logical, clue-based mysteries; strong narrative architecture for 
 
 ### Backstory
 
-*The Seventh Proof* is a non-linear adaptation of Mikhail Bulgakov's masterpiece, *The Master and Margarita*. This game offers a unique, narrative-driven experience built upon environmental storytelling and an immersive atmosphere. The story is set in modern-day London and follows a series of surreal events triggered by the arrival of Professor Woland and his mysterious entourage amidst the turmoil of a major British election. The entire narrative spans the seven days leading up to Election Day. Players assume the roles of various characters, navigating a chain of bizarre and harrowing events, solving puzzles to progress, and deciphering the deep secrets behind Woland's appearance.
+> **Note:** the full, canonical Backstory now lives in `TSP_Outline.md` (rewritten June 2026). Summary of what it establishes:
 
-Unlike the main theme of the actual novel, which was somewhat pro-faith against the setting of atheism and bourgeoisie of the then Soviet Union, this story is going to be against both the extreme political left/right wing ideas currently expanding around the world, such as globalism, stigmatization of nationalism, the rise of neo-fascism, religious extremists, etc.
-
-A week before the contentious UK General Election, the city of London is basically a powder keg of political and ideological tension. The main character and protagonist is **Kenneth Fletcher**, a 37-year-old, disciplined, and brilliant investigator with a sharp mind for political and philosophical topics. However, he is deeply depressed following the tragic loss of his wife and daughter and has grown utterly weary and disillusioned with the dogmatism and extreme idealism of both political factions. One year ago, his wife and daughter perished in a fire while attending a performance at a branch of the famous Royal Alliance Theatre Association.
-
-Kenneth is an official detective in the force, but he also has unofficial connections around the country who sometimes give him leads or secret cases to investigate for extra money. It all began with one of these leads: on a Sunday evening, he gets a call from one of his connections about the disappearance of a man named **Arthur Pennington**. The name strikes a strangely familiar chord with Kenneth. The informant explains that an anonymous caller claimed Arthur hadn't been seen at home or his office for days, ominously adding that "he will be disposed of soon...". Arthur Pennington is the director of the Royal Alliance theatre associations, and thus one of London's wealthiest men, which could make this case very lucrative. Upon hearing the theater's name and recalling the fire incident, Kenneth immediately accepts the case and decides to start his secret investigation at Arthur Pennington's residence: the penthouse of the famous Silver Tower at No. 50 Godolphin Street.
+- **Concept:** non-linear adaptation of *The Master and Margarita*; modern London; environmental storytelling; multiple playable characters; spans the 7 days before a UK General Election.
+- **Theme:** satire against both extremes — dogmatic globalism vs. neo-fascist/ultra-nationalist/religious extremism. Woland arrives to take inventory of a city that corrupted itself.
+- **The Election:** two fictional factions — **The Concord Party** (Diane Sterling; technocratic globalist) vs. **The New Albion Movement** (Edward Thorne; nationalist firebrand). Secretly, *both* campaigns are funded through the same laundering pipeline (One Soul / Royal Alliance).
+- **Woland's cover:** world-famous mentalist booked for a one-night gala at the Royal Alliance flagship theatre on **election eve** — the show is titled *"The Seventh Proof: An Evening of Impossible Truths."* The contract bears Arthur's signature, which he doesn't remember giving.
+- **Entourage & covers:** Koroviev (tour manager/interpreter), Azazello (head of security), Hella (personal assistant), Behemoth (the "performing cat"), and **Abaddon** — uncovered, eyeless, appearing only as a silent omen shortly before a death (a learnable player-facing death omen mechanic).
+- **The theatre attack (1 year ago):** masked gunmen hit a Royal Alliance branch playhouse mid-performance — deaths, abductions, an extremist cell claimed it, no ransom ever came, investigation went dormant. **Hidden canon: it was a commissioned abduction disguised as terrorism — Arthur & Ahmad ordered it (outsourced to a religious extremist cell nourished via the One Soul pipeline) to seize the journalist Michael Astor; the civilian deaths were the plan going out of hand.**
+- **Michael Astor (the Master role):** investigative journalist, byline *M. Astor* (anagram of "Master"); spent 2 years secretly mapping the Royal Alliance/One Soul laundering pipeline; compiled and hid an encrypted dossier before the attack. Officially "unaccounted for" since. **Hidden canon: alive — held under a false name/diagnosis in a private psychiatric clinic funded by One Soul; kept sedated and alive only because he alone knows where the dossier is. He is plotting escape. The dossier is the story's "manuscripts don't burn."**
+- **Margaret:** Michael's partner; a year of cold trails; unshakeable certainty he's alive in London — the desperation Woland prices in Hyde Park.
+- **Kenneth:** detective, 37; wife & daughter were killed in the theatre attack. The case went up to counter-terror and sealed files — he was never allowed near it. He doesn't know Michael Astor exists; his missing-person case is secretly his family's case (Arthur ordered the attack). Clues must be fairly distributed before any reveal.
+- **Inciting case:** Sunday-evening informant call — Arthur Pennington missing, "he will be disposed of soon..." Kenneth accepts because of the theatre connection and starts at the Silver Tower penthouse, No. 50 Godolphin Street.
+- **Chronology (story is told non-linearly):** Thu E-7: contract signed, Arthur vanishes, Margaret's pact. Sun E-4: Kenneth's call + penthouse; same night Sarah is murdered. Mon E-3: Kenneth finds the laundering files and Sarah's body. Wed E-1: Woland's gala. Thu: Election Day finale.
 
 ### Act 1
 
@@ -112,23 +118,28 @@ Returning to her own office, Zoey finds Sarah back much sooner than expected —
 | Element | Detail |
 |---|---|
 | Setting | Modern-day London, 7 days before a contentious UK General Election |
-| Kenneth Fletcher | 37, detective, protagonist; wife & daughter died 1 year ago in a Royal Alliance Theatre fire |
-| Arthur Pennington | Royal Alliance Theatre director; co-founder of One Soul Charity Foundation; vanished 3 days before Kenneth's investigation; affairs with Zoey and Sarah |
-| Ahmad Tariq | Wealthy co-founder of One Soul; partner in the laundering scheme |
-| Margaret Anderson | Margarita role; made a pact with the stranger (Woland) in Hyde Park to find her long-lost lover |
+| Kenneth Fletcher | 37, detective, protagonist; wife & daughter killed 1 year ago in the Royal Alliance theatre attack; case sealed above his rank |
+| Arthur Pennington | Royal Alliance Theatre director; co-founder of One Soul Charity Foundation; ordered the theatre attack with Ahmad; vanished 3 days before Kenneth's investigation; affairs with Zoey and Sarah |
+| Ahmad Tariq | Wealthy co-founder of One Soul; partner in the laundering scheme and the attack order |
+| Michael Astor | Master role; journalist (*M. Astor* = "Master"); investigated the pipeline for 2 years, hid an encrypted dossier; officially "unaccounted for"; secretly held in a One Soul-funded psychiatric clinic, kept alive for the dossier, plotting escape |
+| Margaret Anderson | Margarita role; Michael's partner; made a pact with the stranger (Woland) in Hyde Park to find him |
 | Zoey Fernandez | Arthur's chief secretary and mistress; married |
 | Sarah Evans | Theater financial manager; Arthur's other mistress; beheaded (Behemoth) |
-| Woland | "Professor Woland"; golden 'W' business card; contract with Arthur he can't remember |
-| Behemoth | Giant cat; paw prints, fabricated phone call, Sarah's beheading |
-| The crime layer | One Soul + Royal Alliance launder donation money for both political factions via fake art commissions and crypto |
+| Woland | "Professor Woland"; golden 'W' business card; contract with Arthur he can't remember; public cover: mentalist performing "The Seventh Proof" gala at the Royal Alliance on election eve |
+| Behemoth | Giant cat; paw prints, fabricated phone call, Sarah's beheading; billed in the show as a "performing cat" |
+| Koroviev / Azazello / Hella | Entourage covers: tour manager-interpreter / head of security / personal assistant |
+| Abaddon | Eyeless, silent; appears only as an omen shortly before a death (player-learnable mechanic) |
+| The election | The Concord Party (Diane Sterling, globalist technocrat) vs. The New Albion Movement (Edward Thorne, nationalist firebrand); both secretly funded via the same laundering pipeline |
+| The theatre attack (hidden canon) | Commissioned by Arthur & Ahmad to abduct Michael Astor; disguised as terrorism via an extremist cell funded through One Soul; civilian deaths (incl. Kenneth's family) were the plan going out of hand |
+| The crime layer | One Soul + Royal Alliance launder donation money for both political factions via fake art commissions and crypto; the same pipeline quietly funds religious extremist cells |
 
 ## Open Design Questions (to brainstorm)
 
-1. Who is the Master-equivalent — Margaret's lost lover — and when does the player meet him?
-2. What is this story's Pilate-strand equivalent (the story-within-the-story)?
-3. What does Woland actually want in London?
-4. Was the Royal Alliance fire that killed Kenneth's family connected to the laundering scheme?
-5. Naming consistency: "Ahmad" vs "Ahmed" — canon spelling is **Ahmad Tariq**.
+1. When and how does the player meet Michael Astor (asylum chapters — playable? glimpsed through Margaret's strand?), and how does his escape attempt intersect the 7-day timeline?
+2. What is this story's Pilate-strand equivalent (the story-within-the-story)? Candidate: Michael's hidden dossier/manuscript.
+3. What does Woland actually want in London (beyond the gala — his true purpose)?
+4. Fair-play clue chain: how does Kenneth get from "missing theatre director" to "the attack was a commissioned abduction" — and where does he learn his family died as collateral?
+5. Acts 3+ structure: Margaret's challenges, the gala set-piece, Election Day finale; where the dossier resurfaces.
 
 ## Working Conventions
 
