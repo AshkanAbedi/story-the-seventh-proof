@@ -14,11 +14,11 @@ The dual-extreme political conflict of the election is the story's *setting*. It
 
 **The Cardinal Sin: the gap between the face and the mask.** Every guilty party in the story commits one sin at three scales:
 
-- **Cynicism**: The *institutions* and *people* that believe in nothing.
+- **Venality**: The *institutions* and *people* that believe in nothing, except only their interest and power.
 - **Hypocrisy**: The *powerful*, who parade a faith they privately betray. The Labor-Party great fundraiser and self-styled man of the people, lives an aristocrat's capitalistic life of appetite in his penthouse! A religious man collects donations under the name of God and nation while holding neither sacred and dwelling deep in corruption! None of them believes their own banner.
 - **Cowardice**: *everyone else*, who knows and yet looks away: the public that grieved a ghastly tragedy but quickly moved on; Editors who would not run a true story about a systematic corruption out of fear; and fanatics who are too afraid to face the bitter truth of their beliefs.
 
-Cynicism, hypocrisy, and cowardice are the same crime: the distance between the self that is shown and the self that is real. Against it, the story defends a single value: *sincerity towards the truth*. Woland's function throughout is to collapse that distance, to drag the true face out of the shadows and into the light. To this end, he plays with three persons, who still are paying a ruinous price for caring about one real thing, each is the sincere inversion of the machines hypocrisy: Truth, Love and Courage.
+Venality, hypocrisy, and cowardice are the same crime: the distance between the self that is shown and the self that is real. Against it, the story defends a single value: *sincerity towards the truth*. Woland's function throughout is to collapse that distance, to drag the true face out of the shadows and into the light. To this end, he plays with three persons, who still are paying a ruinous price for caring about one real thing, each is the sincere inversion of the machines hypocrisy: Truth, Love and Courage.
 
 **The Verdict.** Woland's journey ends not in punishment but in a **choice.** He can grant the worn-out and the finished their ultimate *peace*: release or an exit from a city beyond their power to save. Who will choose which?! 
 
